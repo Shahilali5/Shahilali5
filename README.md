@@ -64,9 +64,7 @@ If you like my work, consider supporting me via Paytm!
             <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="shahilali5" />
         </a>
     </p>
-</div><br><br>
-
-
+</div>
 ---
 
 💡 *"Keep learning, keep building!"* 🚀
