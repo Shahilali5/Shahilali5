@@ -58,9 +58,13 @@ If you like my work, consider supporting me via Paytm!
 
 **Paytm UPI ID:** `paytmqr13f34lb8t2@paytm`
 
-<p><a href="https://ko-fi.com/shahilali5"> 
-    <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="shahilali5" />
-</a></p><br><br>
+<div style="text-align: center;">
+    <p>
+        <a href="https://ko-fi.com/shahilali5"> 
+            <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="shahilali5" />
+        </a>
+    </p>
+</div><br><br>
 
 
 ---
