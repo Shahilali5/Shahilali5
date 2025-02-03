@@ -58,7 +58,8 @@ If you like my work, consider supporting me via Paytm!
 
 **Paytm UPI ID:** `paytmqr13f34lb8t2@paytm`
 
-<div><a href="https://www.buymeacoffee.com/shahilali5" height="50" width="210" alt="shahilali5" </div></a>
+<p><a href="https://www.buymeacoffee.com/shahilali5"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shahilali5" /></a></p><br><br>
+  
 ---
 
 💡 *"Keep learning, keep building!"* 🚀
