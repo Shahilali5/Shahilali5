@@ -23,7 +23,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shahilali5&show_icons=true&theme=radical" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahilali5&theme=radical" width="48%"/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilraz&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilraz&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width=48%/>
+</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sahilraz&limit=5&theme=radical&combine_all_yearly_contributions=true)
