@@ -56,7 +56,7 @@
 ## 💎 Support Me:
 If you like my work, consider supporting me via Paytm!
 
-![Paytm Logo](https://upload.wikimedia.org/wikipedia/commons/4/44/Paytm_logo.png)
+![Paytm Logo](https://i.ibb.co/ZpfcJ6jq/download-1.png)
 
 **Paytm UPI ID:** `paytmqr13f34lb8t2@paytm`
 
